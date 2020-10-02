@@ -10,7 +10,7 @@ import org.testng.asserts.SoftAssert;
 
 public class RegistrationTest extends TestRegister
 {
-	
+	//Adding comments in this testcase
 		@Test
 	public void register() throws InterruptedException
 	{
