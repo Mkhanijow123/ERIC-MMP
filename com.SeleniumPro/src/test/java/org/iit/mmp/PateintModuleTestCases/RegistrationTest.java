@@ -5,9 +5,7 @@ import org.iit.mmpBase.HelperRegistration;
 import org.iit.mmpBase.TestRegister;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
-
-
-
+//Editng the code to check if git saves the changes
 public class RegistrationTest extends TestRegister
 {
 	//Adding comments in this testcase
